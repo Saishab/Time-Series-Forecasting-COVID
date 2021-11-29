@@ -18,12 +18,6 @@ This Project deals with time dependent data of COVID- 19.The data is taken from 
 
 #### 3. Forecasting
  Future Data related to Confrimed, Recovered and Deaths are forecated with help of Prophet Technique.
-  
-## Forecasted Plots 
-#### Confrimed Cases Forecast Plot 
-![](Confrimed Cases Plot .png)
 
-#### Death Forecast Plot
-![](Deaths Cases.png)
 
 
